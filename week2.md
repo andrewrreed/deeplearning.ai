@@ -4,4 +4,3 @@
   - this happens by using linear algebra, specifically the dot product 
   - runs ~300x faster
   - **Take Away:** Whenever possible, avoid explicit for loops!
-  
